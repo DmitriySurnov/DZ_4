@@ -1,0 +1,10 @@
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\bin\Debug\zadanie_5.exe.config
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\bin\Debug\zadanie_5.exe
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\bin\Debug\zadanie_5.pdb
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\obj\Debug\zadanie_4_1.csprojAssemblyReference.cache
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\obj\Debug\zadanie_5.Form1.resources
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\obj\Debug\zadanie_5.Properties.Resources.resources
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\obj\Debug\zadanie_4_1.csproj.GenerateResource.cache
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\obj\Debug\zadanie_4_1.csproj.CoreCompileInputs.cache
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\obj\Debug\zadanie_5.exe
+D:\С# form\git_dz-1\DZ_4\zadanie_4_1\obj\Debug\zadanie_5.pdb

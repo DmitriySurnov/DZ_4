@@ -1,0 +1,10 @@
+D:\С# form\22.10.03\zadanie_1\zadanie_5\bin\Debug\zadanie_5.exe.config
+D:\С# form\22.10.03\zadanie_1\zadanie_5\bin\Debug\zadanie_5.exe
+D:\С# form\22.10.03\zadanie_1\zadanie_5\bin\Debug\zadanie_5.pdb
+D:\С# form\22.10.03\zadanie_1\zadanie_5\obj\Debug\zadanie_5.csprojAssemblyReference.cache
+D:\С# form\22.10.03\zadanie_1\zadanie_5\obj\Debug\zadanie_5.Form1.resources
+D:\С# form\22.10.03\zadanie_1\zadanie_5\obj\Debug\zadanie_5.Properties.Resources.resources
+D:\С# form\22.10.03\zadanie_1\zadanie_5\obj\Debug\zadanie_5.csproj.GenerateResource.cache
+D:\С# form\22.10.03\zadanie_1\zadanie_5\obj\Debug\zadanie_5.csproj.CoreCompileInputs.cache
+D:\С# form\22.10.03\zadanie_1\zadanie_5\obj\Debug\zadanie_5.exe
+D:\С# form\22.10.03\zadanie_1\zadanie_5\obj\Debug\zadanie_5.pdb
